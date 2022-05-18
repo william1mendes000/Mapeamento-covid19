@@ -8,7 +8,7 @@
 </p>
 
 <img
-      src=""
+      src="https://github.com/william1mendes000/Mapeamento-covid19/blob/main/covid19-dio/src/assets/images/covid.gif"
       alt="COVID-19 PWA" 
     />
 
