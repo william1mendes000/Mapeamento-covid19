@@ -7,6 +7,11 @@
 
 </p>
 
+<img
+      src=""
+      alt="COVID-19 PWA" 
+    />
+
 
  <br />
   <i>Progressive Web Application com React para mapear os dados do COVID-19 pelo mundo.</i>
