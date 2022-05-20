@@ -7,17 +7,22 @@
 
 </p>
 
-<a href="https://mapeamento-covid19dio.netlify.app/">
+<p align="center">
+  <a href="https://mapeamento-covid19dio.netlify.app/">
     <img
       src="https://github.com/william1mendes000/Mapeamento-covid19/blob/main/covid19-dio/src/assets/images/covid.gif"
       alt="COVID-19 PWA" 
+    />
   </a>
-
-
- <br />
-  <i>Progressive Web Application com React para mapear os dados do COVID-19 pelo mundo.</i>
+  <br />
+  <a href="https://mapeamento-covid19dio.netlify.app/">
+     <i>Progressive Web Application com React para mapear os dados do COVID-19 pelo mundo.</i>
+  <a/>
+</p>
   
 
+
+<hr />
 
 <details>
   <summary><strong>Fontes</strong></summary>
@@ -64,4 +69,3 @@
 </details>
 
 <hr />
-
